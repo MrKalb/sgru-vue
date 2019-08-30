@@ -1,4 +1,4 @@
-# vue-cli
+# SGRU
 
 > A Vue.js project for SGRU application. This front-end application use the [sgru-spring](https://github.com/MrKalb/sgru-spring) as back-end 
 
